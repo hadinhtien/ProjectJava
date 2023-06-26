@@ -1,0 +1,11 @@
+.mainColor {
+	color: #71CD14 !important;
+}
+
+.textDrop{
+	color: black;
+}
+
+.textDrop:hover {
+	color: #71CD14 !important;
+}
